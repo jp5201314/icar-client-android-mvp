@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">4S工位系统</string>
+    <string name="pad_manager">系统检测</string>
+    <string name="update_version">版本更新</string>
+    <string name="check_network">网络检测</string>
+    <string name="not_install">当前系统中未安装”4S工位系统”</string>
+    <string name="install">安装4S工位系统</string>
+    <string name="check_system_app">检测系统中的APP</string>
+    <string name="phone_num">手机号</string>
+    <string name="password">密码</string>
+    <string name="login">登录</string>
+    <string name="please_choose_work_place_for_this_device">请选择本设备对应工位</string>
+    <string name="please_wait">请稍等</string>
+    <string name="sure">确认</string>
+    <string name="kindly_reminder">温馨提示</string>
+    <string name="plate_number">车牌</string>
+    <string name="stop">下钟</string>
+    <string name="minute">分钟</string>
+    <string name="cancel">取消</string>
+    <string name="re_choose">重新选择</string>
+    <string name="did_not_pass">不通过</string>
+    <string name="pass">通过</string>
+    <string name="final_inspection">终检</string>
+    <string name="start_work">上钟</string>
+</resources>

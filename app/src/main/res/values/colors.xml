@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="color_transparent">#00000000</color>
+    <color name="color_white_ffffff">#FFFFFF</color>
+    <color name="color_white_ffffff_10">#1AFFFFFF</color>
+    <color name="color_white_faf9f7">#FAF9F7</color>
+    <color name="color_white_d2d2d2">#d2d2d2</color>
+
+    <color name="color_green_3bb4bc">#3BB4BC</color>
+    <color name="color_green_2d888e">#2d888e</color>
+    <color name="color_green_89c6ca">#89C6CA</color>
+    <color name="color_green_d4ebeb">#D4EBEB</color>
+    <color name="color_green_c4ebeb">#c4EBEB</color>
+    <color name="color_green_9ad6d9">#9AD6D9</color>
+    <color name="color_green_e9f5f5">#E9F5F5</color>
+    <color name="color_gray_bebfc0">#BEBFC0</color>
+    <color name="color_gray_bcc8c9">#bCC8C9</color>
+
+    <color name="color_gray_d8d8d8">#D8D8D8</color>
+    <color name="color_gray_8b8c8d">#8B8C8D</color>
+    <color name="color_gray_a5a5a6">#A5A5A6</color>
+    <color name="color_gray_6e6e6f">#6E6E6F</color>
+    <color name="color_black_373d41">#373D41</color>
+    <color name="color_gray_4f5152">#6E6E6F</color>
+    <color name="color_gray_b2b2b2">#B2B2B2</color>
+    <color name="color_gray_3e4143">#3E4143</color>
+    <color name="color_gray_b7b4b4">#B7B4B4</color>
+    <color name="color_gray_f2f1f1">#F2F1F1</color>
+
+
+    <color name="color_black_5c5d5d">#5C5D5D</color>
+    <color name="color_black_0e1214">#0E1214</color>
+    <color name="color_black_1b2025">#1B2025</color>
+    <color name="color_black_101416">#101416</color>
+    <color name="color_black_191e23">#191E23</color>
+
+
+    <color name="color_orange_f0a748">#F0A748</color>
+    <color name="color_yellow_f2b96d">#F2B96D</color>
+    <color name="color_red_db6767">#db6767</color>
+    <color name="color_green_20b279">#20B279</color>
+    <color name="color_green_4ec295">#4ec295</color>
+    <color name="color_green_173236">#173236</color>
+    <color name="color_gray_eaeaea">#EAEAEA</color>
+    <color name="colorAccent">#EAEAEA</color>
+</resources>
